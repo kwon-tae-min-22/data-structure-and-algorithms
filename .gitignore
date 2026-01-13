@@ -38,5 +38,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-src/main/java/org/review/
-src/test/java/org/review/
+# src/main/java/org/review/
+# src/test/java/org/review/
